@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<p align="center">
+  <samp>
+I am <strong>Ismaïl NGUYEN</strong>. A full stack software engineer from Paris, France.
+     <br><br>Get in touch at <a href="https://www.ismailnguyen.com/">ismailnguyen.com</a>
+  </samp>
+</p>
+
 <!--
 **ismailnguyen/ismailnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
