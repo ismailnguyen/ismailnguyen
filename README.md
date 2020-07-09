@@ -14,8 +14,8 @@
 * Craft coach @La Combe du Lion Vert
 
 ### 🎙️ Activities
-* Conference organizer at @Newcrafts
-* Conference organizer at @AgileFrance
+* Conference organizer @Newcrafts
+* Conference organizer @AgileFrance
 
 ### 💬 Want to connect ?
 * Get in touch at [ismailnguyen.com](https://www.ismailnguyen.com)
