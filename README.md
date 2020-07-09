@@ -7,7 +7,7 @@
 </p>
 
 ### 🚀 My Dream
-* Making this world <better/> !
+* Making this world `better` !
 
 ### 🔭 Currently working on
 * Full stack Tech lead @L'Occitane en Provence
