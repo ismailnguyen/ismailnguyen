@@ -1,24 +1,21 @@
-### Hi there 👋
-
+## Hi there, I am Ismaïl, a full stack software engineer from Paris, France. 👋
 
 <p align="center">
   <samp>
-I am <strong>Ismaïl NGUYEN</strong>. A full stack software engineer from Paris, France.
-     <br><br>Get in touch at <a href="https://www.ismailnguyen.com/">ismailnguyen.com</a>
+ I have no special talent. I am only passionately curious. 
   </samp>
 </p>
 
-<!--
-**ismailnguyen/ismailnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 My Dream
+* Making this world <better/> !
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
+* Full stack Tech lead @L'Occitane en Provence
+* Craft coach @La Combe du Lion Vert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎙️ Activities
+* Conference organizer at @Newcrafts
+* Conference organizer at @AgileFrance
+
+### 💬 Want to connect ?
+* Get in touch at [ismailnguyen.com](https://www.ismailnguyen.com)
