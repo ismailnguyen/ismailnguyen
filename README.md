@@ -1,4 +1,4 @@
-## Hi there, I am Ismaïl, a full stack software engineer from Paris, France. 👋
+## Hi there, I am Ismaïl, a software engineer from Geneva, Switzerland. 👋
 
 <p align="center">
   <samp>
@@ -10,8 +10,7 @@
 * Making this world `better` !
 
 ### 🔭 Currently working on
-* Full stack Tech lead @L'Occitane en Provence
-* Craft coach @La Combe du Lion Vert
+* Solution Architect @L'Occitane en Provence
 
 ### 🎙️ Activities
 * Conference organizer @NewCrafts
