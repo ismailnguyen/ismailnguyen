@@ -14,7 +14,7 @@
 * Craft coach @La Combe du Lion Vert
 
 ### 🎙️ Activities
-* Conference organizer @Newcrafts
+* Conference organizer @NewCrafts
 * Conference organizer @AgileFrance
 
 ### 💬 Want to connect ?
