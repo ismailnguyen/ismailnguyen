@@ -15,7 +15,7 @@
 * Making this world `better` !
 
 ### 🔭 Currently working on
-* Solution Architect @L'Occitane en Provence
+* Digital Architect @L'Occitane en Provence
 
 ### 🎙️ Activities
 * Conference organizer @NewCrafts
