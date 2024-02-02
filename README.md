@@ -1,7 +1,4 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ismailnguyen)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ismailnguyen/ismailnguyen/master/banner.jpg" alt="Ismaïl NGUYEN" />
-</p>
 
 ## 👋 Hi there, I am Ismaïl, a software engineer from Geneva, Switzerland.
 
@@ -15,7 +12,7 @@
 * Making this world `better` !
 
 ### 🔭 Currently working on
-* Digital Architect @L'Occitane en Provence
+* Technical Advisor @L'Occitane en Provence
 
 ### 🎙️ Activities
 * Conference organizer @NewCrafts
