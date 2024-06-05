@@ -6,7 +6,7 @@ about: I have no special talent. I am only passionately curious.
 activities:
   work:
     title: Technical Advisor 
-    company: @L'Occitane en Provence**
+    company: @L'Occitane Group
   projects:
     link: ismailnguyen.com/portfolio
   contact:
